@@ -1,0 +1,1 @@
+package com.ranjit.springorm.entites;
